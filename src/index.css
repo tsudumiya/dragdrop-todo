@@ -1,0 +1,18 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+h1 {
+    font-size: 45px;
+    color: aliceblue;
+    font-weight: 600;
+}
+.app {
+    background: url(../src/images/mountain.jpg) center / cover no-repeat;
+    height: 100vh;
+}
+button {
+    border: none;
+    outline: none;
+}
